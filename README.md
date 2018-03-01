@@ -1,7 +1,5 @@
-# pytorch-deconvnet
+# Decov-VGG16-PyTorch
 
-Example of Deconvnet in PyTorch for VGG16.  vis_utils.py adapted from the assignments of [CS231n](http://cs231n.github.io/).
-
-Work in progress.  Test codes to come.
-
+Implementation of deconvnet based on https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf
+This gives a way to visualize top 9 activations for a given layer, feature map over the Imagenet Validation set.
 
